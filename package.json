@@ -6,7 +6,7 @@
     "node": ">=18.0.0"
   },
   "scripts": {
-    "e2e:control": "wdio ./wdio.default.conf.js"
+    "e2e": "wdio ./wdio.default.conf.js"
   },
   "license": "UNLICENSED",
   "type": "module",
